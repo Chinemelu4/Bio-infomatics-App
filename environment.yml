@@ -1,7 +1,0 @@
-name: streamlit
-channels:
-  - defaults
-  - conda-forge  
-dependencies:
-  - libgcc=5.2.0
-  - rdkit
